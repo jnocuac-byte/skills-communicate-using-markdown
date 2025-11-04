@@ -9,3 +9,10 @@ Agregue esta imagen con su texto alternativo de un perrito :D
 ```python
 print('Hola mundo desde MarkDown')
 ```
+
+- [x] Create Pull Request
+- [x] Add a header
+- [x] Add an image
+- [x] Add a code block
+- [x] Add a task list
+- [ ] Finish the skill path  
