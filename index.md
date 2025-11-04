@@ -15,4 +15,5 @@ print('Hola mundo desde MarkDown')
 - [x] Add an image
 - [x] Add a code block
 - [x] Add a task list
-- [ ] Finish the skill path  
+- [ ] Merge my pull request
+
